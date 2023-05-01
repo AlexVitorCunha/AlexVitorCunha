@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Alex Vitor Cunha
-- 👀 I’m interested in programming (Java, python, C++) and web development (HTML, CSS, React, Redux, SASS) 
-- 🌱 I’m currently learning how to develop Android apps using Android Studio, Kotlin and Firestore.
-- 📫 How to reach me 200465920@student.georgianc.on.ca
+- 👀 I’m interested in programming (Java, python, C++), web development (HTML, CSS, React, Redux, SASS) and data analysis (SQL, Tableau, Power BI) 
+- 🌱 I've been working as a Data Analyst since August 2022 at Northlake Financial.
+- 📫 How to reach me alexvitormc@gmail.com
 - Pronouns: he/him
   
  <div style="display: inline_block"><br>
